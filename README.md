@@ -1,3 +1,3 @@
 # IN1910
 
-Dette ble skrevet gjennom git 
+#Dette ble skrevet gjennom git 
